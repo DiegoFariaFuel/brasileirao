@@ -1,23 +1,36 @@
-# Campeonato Brasileirão
+# Aplicativo de Acompanhamento do Campeonato Brasileirão
 
-Este e um projeto de um aplicativo para ver ponto de campeonato de futubol
+Este é um projeto de um aplicativo para acompanhar o Campeonato Brasileiro de futebol. O aplicativo permite aos usuários visualizar a classificação dos times, ver detalhes de um time específico e adicionar títulos a times que ainda não possuem.
 
-Vou apresentar como ele funciona : 
+## Apresentacao do aplicativo
 
+### Tela Inicial
+![Tela Inicial](https://github.com/DiegoFariaFuel/brasileirao/raw/main/1.png)
 
-![Esta e a Tela Inicial](https://github.com/DiegoFariaFuel/brasileirao/raw/main/1.png),
+### Detalhes do Time
+![Detalhes do Time](https://github.com/DiegoFariaFuel/brasileirao/raw/main/2.png)
 
+### Time sem Títulos
+![Time sem Títulos](https://github.com/DiegoFariaFuel/brasileirao/raw/main/3.png)
 
-![Esta e a tela para onde vai quando clica em um time](https://github.com/DiegoFariaFuel/brasileirao/raw/main/2.png),
+### Adicionar Título ao Time
+![Adicionar Título ao Time](https://github.com/DiegoFariaFuel/brasileirao/raw/main/4.png)
 
+### Time com Título
+![Time com Título](https://github.com/DiegoFariaFuel/brasileirao/raw/main/5.png)
 
-![Vemos que o time não possui nenhum titulo](https://github.com/DiegoFariaFuel/brasileirao/raw/main/3.png),
+## Como Executar
 
+Baixe o projeto e atualize as dependencias do pubspec.yaml
 
-![Adicionamos um titulo ao time](https://github.com/DiegoFariaFuel/brasileirao/raw/main/4.png),
+## Contribuição
 
-![Agora o time possui o titulo](https://github.com/DiegoFariaFuel/brasileirao/raw/main/5.png),
+Outros desenvolvedores podem contribuir para o projeto, se desejar, implemtar novas funcionalidade ajudar a criar novas funcionalidades.
 
+## Licença
 
+Este projeto está licenciado sob a licença [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
 
+---
 
+Desenvolvido por [Diego Faria](https://github.com/DiegoFariaFuel)
