@@ -27,10 +27,4 @@ Baixe o projeto e atualize as dependencias do pubspec.yaml
 
 Outros desenvolvedores podem contribuir para o projeto, se desejar, implemtar novas funcionalidade ajudar a criar novas funcionalidades.
 
-## Licença
 
-Este projeto está licenciado sob a licença [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
-
----
-
-Desenvolvido por [Diego Faria](https://github.com/DiegoFariaFuel)
